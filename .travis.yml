@@ -1,2 +1,2 @@
 language: docker
-script: docker build -t test .
+script: docker build -t justtest .

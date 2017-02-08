@@ -1,4 +1,4 @@
-FROM centos
+FROM centos-nonexisting
 RUN mkdir -p /usr/app
 WORKDIR /usr/app
 
